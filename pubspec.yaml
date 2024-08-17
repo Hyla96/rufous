@@ -1,0 +1,14 @@
+name: rufous
+description: A dart package that provides a flexible gaming server on top of the Netcode protocol
+version: 0.0.0
+repository: https://github.com/Hyla96/rufous
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
